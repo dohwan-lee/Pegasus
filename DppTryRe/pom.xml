@@ -86,10 +86,9 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>${hibernate.version}</version>
+			<version>4.3.8.Final</version>
 		</dependency>
 
-		
 		<!-- Test Artifacts -->
 		<dependency>
 			<groupId>org.springframework</groupId>
